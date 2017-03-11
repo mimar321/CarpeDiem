@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\mimar\.android\build-cache\2596411e08ab1bfa916eafd93bb149b40770d582\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\mimar\Documents\GitHub\CarpeDiem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0319cc8809c5168381eed19f674058f785a261f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mimar\Documents\GitHub\CarpeDiem\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01bdc9986f1983ff3a3903250dee3bba5ab71560">
+        <dex dex="C:\Users\mimar\Documents\GitHub\CarpeDiem\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_77d0d544268496f442d3e14067e36dbff9c76978\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mimar\.android\build-cache\a028fa6f1e6048ddf37e279bb3af50ae0c5b1059\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\mimar\Documents\GitHub\CarpeDiem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d7af42865f88c73adfe2eed03141642d5b454ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mimar\.android\build-cache\cadf911003688913b6b96fbf16562606f09a53a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\mimar\Documents\GitHub\CarpeDiem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85aecfdabc0ea1c0941c40298c0da6a6bf70d6d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mimar\Documents\GitHub\CarpeDiem\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\mimar\Documents\GitHub\CarpeDiem\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5987feb4bbf614371f6d542202bd8889e0eb9db2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mimar\.android\build-cache\2526f89a2cfea2d5af5d0df43b53e0a079cf4302\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\mimar\Documents\GitHub\CarpeDiem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46b8f8298476f7fb36b32b406dee2690c8c44b0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mimar\.android\build-cache\3149093c765a7c1bd5df7fd0ca02534e157b67e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\mimar\Documents\GitHub\CarpeDiem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03333246392f14f8143a7d7c6ed9334fb6d06e76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mimar\.android\build-cache\9c9a616f3d3117f7e5cfe0db3a8f16d3e0736c51\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\mimar\Documents\GitHub\CarpeDiem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_084cab22ea75ce1264fac54d57b958572698b487\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mimar\.android\build-cache\3d8aa691bdf945cc221df98c56e4b415a618c58c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\mimar\Documents\GitHub\CarpeDiem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43eb6102cce4b39e999d30fcee08e71e5f7e6e01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mimar\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\mimar\Documents\GitHub\CarpeDiem\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_62af6d897e347c83aa718216826c9dee87f66daf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mimar\.android\build-cache\f957b9f6bfe53c5900a2681f56afee6b70404e19\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\mimar\Documents\GitHub\CarpeDiem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f23d406e533a062a0ec57d8bfe5528f2e97669c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mimar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\mimar\Documents\GitHub\CarpeDiem\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_0d9bc7ed4fa2c43ba0a88943a6fd1426cdd8838f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mimar\.android\build-cache\431231cb483a83f0259daf5c847d80c6fec48de8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\mimar\Documents\GitHub\CarpeDiem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2181ffcf50d3fb8ae7de0deb349780a969070242\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mimar\.android\build-cache\262a788f2f26b000f6737d61032074163abd0bda\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\mimar\Documents\GitHub\CarpeDiem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5a5f31111d5b4a677b5230c389ddfeec7f38ea2\classes.dex" />
+    </item>
+
+</items>
